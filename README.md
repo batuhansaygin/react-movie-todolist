@@ -9,7 +9,7 @@ cd react-movie-todolist
 npm i
 npm run start:dev
 open localhost:8080
-```
 
 # To build the app for production, run the following command:
 npm run bundle
+```
