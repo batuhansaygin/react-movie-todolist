@@ -1,5 +1,5 @@
 # React Movie Todolist
-This project is designed for Software Systems Development and Management course.
+This project is designed for **Software Systems Development and Management** course.
 
 ## Installation
 
