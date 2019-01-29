@@ -1,7 +1,7 @@
 {
   "name": "react-todo-app",
   "version": "1.0.2",
-  "description": "A React powered todo app.",
+  "description": "This project is designed for Software Systems Development and Management course..",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
     "bundle": "webpack -p"
   },
   "keywords": [],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "author": "Batuhan Saygin <info@batuhansaygin.com> (https://batuhansaygin.com)",
   "license": "MIT",
   "dependencies": {
     "react": "^15.4.1",
@@ -27,7 +27,7 @@
     "webpack-dev-server": "^1.16.2",
     "style-loader": "^0.13.1"
   },
-  "homepage": "https://github.com/IonicaBizau/react-todo-app#readme",
+  "homepage": "https://movies.batuhansaygin.com/",
   "files": [
     "bin/",
     "app/",
@@ -45,22 +45,22 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/react-todo-app.git"
+    "url": "git+ssh://git@github.com/batuhansaygin/react-movie-todolist.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/react-todo-app/issues"
+    "url": "https://github.com/batuhansaygin/react-movie-todolist/issues"
   },
   "blah": {
     "show_installation": true,
-    "description": "**Hey!** :blush: This is my first project in React. If you find any tips, please share them with me and let me know what can pe improved.",
+    "description": "This project is designed for Software Systems Development and Management course.",
     "is_only_web": false,
-    "ex_img": "https://i.imgur.com/0g5ycgd.png",
-    "ex_url": "https://ionicabizau.github.io/react-todo-app",
+    "ex_img": "https://imgur.com/vcHkeCi",
+    "ex_url": "https://github.com/batuhansaygin/react-movie-todolist/",
     "installation_command": {
       "language": "sh",
       "content": [
-        "git clone https://github.com/IonicaBizau/react-todo-app/",
-        "cd react-todo-app",
+        "git clone https://github.com/batuhansaygin/react-movie-todolist/",
+        "cd react-movie-todolist",
         "npm i",
         "npm run start:dev",
         "open localhost:8080",
