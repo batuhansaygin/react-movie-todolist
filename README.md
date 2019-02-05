@@ -1,10 +1,10 @@
-# React Movie Todolist
+# React Movies Todolist
 This project is designed for **Software Systems Development and Management** course.
 
 ## Installation
 
 ```sh
-git clone https://github.com/batuhansaygin/react-movie-todolist
+git clone https://github.com/batuhansaygin/react-movies-todolist
 cd react-movie-todolist
 npm i
 npm run start:dev
